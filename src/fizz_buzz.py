@@ -7,3 +7,4 @@ def fizz_buzz(param):
          return "Buzz"
   else:
          return str(number)
+print(fizz_buzz(18))
